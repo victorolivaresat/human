@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0; 
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+.block {
+  display: block;
+  width: 100%;
+  background: #e1e442;
+  color: #cf3f3f;
+}
+
+.relative {
+  position: relative;
+  margin-bottom: 20px;
+} 
